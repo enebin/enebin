@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats-murex-eight-82.vercel.app/api/top-langs/?username=enebin&count_private=true&layout=compact)](https://github.com/enebin/github-readme-stats)
 <!--
 **enebin/enebin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
