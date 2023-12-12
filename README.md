@@ -1,11 +1,11 @@
-_iOS developer from <b>Seoul, Korea</b>_
+🇰🇷 iOS developer from <b>Seoul, Korea</b>
 
-#### Things I work with
-##### Mainly
+### What I've worked with
 <p>
   <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/> 
 </p>
 
+#### Mainly
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> 
   <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-02B2FE?style=flat&logo=Swift&logoColor=white"/> 
@@ -16,7 +16,7 @@ _iOS developer from <b>Seoul, Korea</b>_
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 </p>
 
-##### Has experience in
+#### Has experience in
 <p>
   <img alt="ObjC" src="https://shields.io/badge/ObjectiveC--9cf?logo=Apple&style=social"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> 
@@ -35,24 +35,25 @@ _iOS developer from <b>Seoul, Korea</b>_
 <p>
   <a href="https://github.com/enebin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
-#### Top personal repos
-<!--AUTO: GITHUB-->
+#### Popular repos
+- [Aespa](https://github.com/enebin/Aespa): From camera to album, in just 2 lines
+- [PantoneChips](https://github.com/enebin/PantoneChips): Implementing Pantone chips tower with SwiftUI
 
-- [Aespa](https://github.com/enebin/Aespa) - 26 Stars
-- [PantoneChips](https://github.com/enebin/PantoneChips) - 11 Stars
-<!--AUTO: GITHUB_END-->
+#### Apps
+- [Keyme](https://apps.apple.com/kr/app/keyme/id6458787411)
+- [Naenio](https://apps.apple.com/kr/app/%EB%84%A4%EB%8B%88%EC%98%A4/id1634376427)
+
 
 </br>
 
 <a href="https://medium.com/@enebin" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-#### Latest posts
+#### Posts
 <!--AUTO: MEDIUM-->
 
-- [SwiftUI Interaction Challenge [3]](https://enebin.medium.com/swiftui-interaction-challenge-3-75a837070d6d?source=rss-84589cdcce2f------2)
-- [SwiftUI Interaction Challenge [2]](https://enebin.medium.com/swiftui-interaction-challenge-2-e9835449efcc?source=rss-84589cdcce2f------2)
-- [SwiftUI Interaction Challenge [1]](https://enebin.medium.com/swiftui-interaction-challenge-1-234842471849?source=rss-84589cdcce2f------2)
-- [SwiftUI에서 살아남기 [1]](https://enebin.medium.com/swiftui%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-1-c7ae19f2ccd6?source=rss-84589cdcce2f------2)
-- [SwiftUI로 호다닥 비디오 녹화 앱 만들기](https://enebin.medium.com/swiftui%EB%A1%9C-%ED%98%B8%EB%8B%A4%EB%8B%A5-%EB%B9%84%EB%94%94%EC%98%A4-%EB%85%B9%ED%99%94-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-963ce28d032d?source=rss-84589cdcce2f------2)
+- [Swift Concurrency Deep Dive](https://enebin.medium.com/list/swift-concurrency-deep-dive-2d8a1fe9f7fc)
+- [Developing a Video Recorder App with SwiftUI](https://enebin.medium.com/list/developing-a-video-recorder-app-with-swiftui-c099ac9db9d9)
+- [Some examples of modern animations with demo cafe app](https://enebin.medium.com/swiftui-lets-make-a-demo-cafe-app-with-modern-animations-efed014c5348)
+- [How to make 3D carousel view](https://enebin.medium.com/swiftui-how-to-make-3d-carousel-view-c81b1914cb25)
 <!--AUTO: MEDIUM_END-->
