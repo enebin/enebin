@@ -1,0 +1,35 @@
+name: Medium RSS Feed Reader
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs at 8:00 AM every day
+
+jobs:
+  read-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+
+    - name: Run the RSS feed reader
+      run: python ./update_medium_feed.py
+  
+    - name: Commit and push if README.md has changed
+      run: |
+        git config --global user.name 'enebin'
+        git config --global user.email 'enebin777@gmail.com'
+        git add README.md
+        git commit -m "Update README with latest Medium posts" || echo "No changes to commit"
+        git push
+    # Additional steps to handle the script's output
