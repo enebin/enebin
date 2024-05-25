@@ -25,6 +25,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="Fastlane" src="https://img.shields.io/badge/-Fastlane-00F200?style=flat&logo=Fastlane&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/static/v1?style=flat&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=" />
+</p>
+<p>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" />
