@@ -10,7 +10,8 @@
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> 
   <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-02B2FE?style=flat&logo=Swift&logoColor=white"/> 
   <img alt="UIKit" src="https://img.shields.io/badge/UIKit-383838?style=flat&logo=Swift&logoColor=white"/>
-  <img alt="Combine" src="https://img.shields.io/badge/Combine-000000?style=flat&logo=Apple&logoColor=white"/> 
+  <img alt="Swift Concurrency" src="https://img.shields.io/badge/Swift Concurrency-000435?style=flat&logo=Swift&logoColor=white"/> 
+  <img alt="Combine" src="https://img.shields.io/badge/Combine-000000?style=flat&logo=Swift&logoColor=white"/> 
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white"/>
   <img alt="SPM" src="https://img.shields.io/static/v1?style=flat&message=SPM&color=964B00&logo=hackthebox&logoColor=FFFFFF&label=" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
@@ -19,6 +20,7 @@
 #### Has experience in
 <p>
   <img alt="ObjC" src="https://shields.io/badge/ObjectiveC--9cf?logo=Apple&style=social"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> 
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> 
   <img alt="C" src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> 
   <img alt="CocoaPods" src="https://img.shields.io/static/v1?style=flat&message=CocoaPods&color=EE3322&logo=CocoaPods&logoColor=FFFFFF&label=" />
