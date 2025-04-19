@@ -1,8 +1,9 @@
 🇰🇷 iOS developer from <b>Seoul, Korea</b>
 
+<!--
 ### What I've worked with
 <p>
-  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/> 
+ <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/> 
 </p>
 
 #### Mainly
@@ -35,6 +36,7 @@
   <img alt="Raspberry-Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 </p>
+-->
 
 ### What I've done recently
 <p>
