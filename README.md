@@ -44,7 +44,7 @@
 
 #### Popular repos
 - [Aespa](https://github.com/enebin/Aespa): From camera to album, in just 2 lines
-- [PantoneChips](https://github.com/enebin/PantoneChips): Implementing Pantone chips tower with SwiftUI
+- [Mentalist](https://github.com/enebin/Mentalist): Read face with a line of code
 
 #### Apps
 - [Keyme](https://apps.apple.com/kr/app/keyme/id6458787411): Ranked upto __27th__ in the top free SNS app
