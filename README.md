@@ -48,7 +48,6 @@
 
 #### Apps
 - [Keyme](https://apps.apple.com/kr/app/keyme/id6458787411): Ranked upto __27th__ in the top free SNS app
-- [Naenio](https://apps.apple.com/kr/app/%EB%84%A4%EB%8B%88%EC%98%A4/id1634376427)
 
 
 </br>
